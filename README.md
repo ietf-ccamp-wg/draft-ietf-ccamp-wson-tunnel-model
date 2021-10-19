@@ -1,7 +1,3 @@
-# draft-ietf-ccamp-wson-tunnel-model
-CCAMP WG repository for YANG module ietf-wson-tunnel
-
-
 # A Yang Data Model for WSON Tunnel
 
 ## Scope
